@@ -1,0 +1,22 @@
+E:\ERROR\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+E:\ERROR\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+E:\ERROR\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+E:\ERROR\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+E:\ERROR\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+E:\ERROR\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+E:\ERROR\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+E:\ERROR\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+E:\ERROR\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+E:\ERROR\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+E:\ERROR\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+E:\ERROR\Unity Hub\2021.1.7f1\Projects\Swimming_Multiplayer(Kindl Websolution)\Unity Networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
